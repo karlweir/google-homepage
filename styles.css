@@ -1,0 +1,39 @@
+li {
+	list-style-type: none;
+	display: inline;
+
+}
+
+a {
+	text-decoration: none;
+	color: #666666;
+	text-align: center;
+	padding-right: 10px;
+}
+
+ul {
+	display: inline;
+	text-align: right
+}
+
+#footer-link-seperator {
+	width: 100%;
+	text-align: right;
+}
+
+#top-links {
+	width: 100%;
+}
+
+#main-content {
+	margin: 250px auto;
+}
+
+img {
+	display: inline;
+}
+
+footer {
+	background-color: #f2f2f2
+
+}
