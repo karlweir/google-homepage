@@ -16,6 +16,14 @@ ul {
 	text-align: right
 }
 
+input {
+	margin: 10px;
+}
+
+#about-links {
+	text-align: left;
+}
+
 #footer-link-seperator {
 	width: 100%;
 	text-align: right;
@@ -34,6 +42,12 @@ img {
 }
 
 footer {
+	position: absolute;
+    bottom: 0;
+    width: 99%;
+    height: 40px;
+    margin: 0 auto;
 	background-color: #f2f2f2
+	padding-bottom: 10px;
 
 }
